@@ -3,13 +3,9 @@
 Hey there! I'm Dhruv Menon, a Fresher in Embedded Systems. Passionate about building innovative solutions and mentoring aspiring developers.
 
 ## 🔧 Technologies & Tools
-- Embedded Systems Development
-- Linux Kernel Programming
-- Communication Protocols (SPI, I2C)
-- STM32 Microcontrollers
-- MQTT and TCP/IP Networking
-- Computer Vision (YOLO v5)
-- Robotics and Automation
+- Languages: C/C++, Python, Bash Scripting, MATLAB
+- Tools: Altium Designer, CMAKE, GCC, QT/QML, Git, LTSpice
+- Technologies: Communication Protocol(UART, I2C, SPI, TCP/IP, MQTT, USB), MCU(STM, AVR), SBC(Raspberry Pi, Beaglebone, Nvidia Jetson), OS(RTOS, Linux)
 
 ## 🌱 Currently Learning
 Exploring Linux kernel programming to enhance autonomous systems.
