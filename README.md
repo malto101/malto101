@@ -14,6 +14,6 @@ Exploring Linux kernel programming to enhance autonomous systems.
 open to contribute to open-source projects, focusing on embedded systems, robotics, and computer vision.
 
 ## 📫 Let's Connect!
-Feel free to reach out for collaborations, tech discussions, or mentoring opportunities. You can connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv--menon/).
+Feel free to reach out for collaborations, tech discussions, or opportunities. You can connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv--menon/).
 
 Looking forward to creating meaningful and innovative technology together! 🚀
