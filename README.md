@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 Hey there! I'm Dhruv Menon, a passionate Fresher with a keen interest in embedded systems and hardware design, dedicated to leveraging skills in circuit design, embedded coding, and automation to create efficient and automated solutions while continuously enhancing technical knowledge and expertise.
+i don't work on embedded system professionally—it’s just a hobby for now.
 
 ## 🔧 Technologies & Tools
 - Languages: C/C++, Python, Bash Scripting, MATLAB
