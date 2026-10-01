@@ -18,3 +18,5 @@ open to contribute to open-source projects, focusing on embedded systems, roboti
 Feel free to reach out for collaborations, tech discussions, or opportunities. You can connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv--menon/).
 
 Looking forward to creating meaningful and innovative technology together! 🚀
+
+EDIT: please dont read all this, I cringe every time I see this profile bio, want to update it but feel so lazy...
